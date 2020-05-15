@@ -1,13 +1,13 @@
 {
-  "name": "NAME",
+  "name": "Portfolio",
   "version": "0.0.1",
-  "description": "DESCRIPTION",
+  "description": "Track your ARK portfolio and get insights into your analytics.",
   "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/logo.png",
   "main": "src/index.js",
   "author": "Author Name <author@ark.io>",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "TITLE",
+    "title": "Portfolio",
     "images": [
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-1.png",
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-2.png",
